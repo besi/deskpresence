@@ -1,2 +1,6 @@
 /sw/webrepl_cfg.py
 /sw/secrets.py
+/*-backups
+/*.DS_Store
+/*.*prl
+/fp-info-cache
