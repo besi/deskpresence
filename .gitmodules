@@ -1,3 +1,9 @@
 [submodule "lib/usb-a-pcb"]
 	path = lib/usb-a-pcb
 	url = https://github.com/besi/kicad-usb-a-pcb
+[submodule "lib/esp-01m"]
+	path = lib/esp-01m
+	url = https://github.com/besi/kicad-esp-01m
+[submodule "lib/ftdi-connector"]
+	path = lib/ftdi-connector
+	url = https://github.com/besi/kicad-ftdi-connector
